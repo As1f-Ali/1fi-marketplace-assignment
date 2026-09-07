@@ -7,7 +7,7 @@ export default function PlaceholderScreen({ route }) {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>{title}</Text>
-      <Text style={styles.subtext}>This section isn't part of the assignment scope.</Text>
+      <Text style={styles.subtext}>Coming soon</Text>
     </View>
   );
 }
