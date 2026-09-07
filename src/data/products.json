@@ -1,0 +1,40 @@
+[
+  {
+    "id": "p1",
+    "brand": "Apple",
+    "name": "iPhone 17 Pro",
+    "image": "https://placehold.co/300x300/6B2FB3/ffffff?text=iPhone+17+Pro",
+    "variants": [
+      { "id": "v1", "label": "2026 · 256 GB", "sublabel": "iPhone 17 Pro 256 GB", "price": 125900 },
+      { "id": "v2", "label": "2026 · 512 GB", "sublabel": "iPhone 17 Pro 512 GB", "price": 134900 }
+    ]
+  },
+  {
+    "id": "p2",
+    "brand": "Apple",
+    "name": "MacBook Air M3",
+    "image": "https://placehold.co/300x300/6B2FB3/ffffff?text=MacBook+Air",
+    "variants": [
+      { "id": "v1", "label": "8GB / 256GB", "sublabel": "MacBook Air M3 - Midnight", "price": 114900 },
+      { "id": "v2", "label": "16GB / 512GB", "sublabel": "MacBook Air M3 - Starlight", "price": 139900 }
+    ]
+  },
+  {
+    "id": "p3",
+    "brand": "Samsung",
+    "name": "Galaxy S25 Ultra",
+    "image": "https://placehold.co/300x300/6B2FB3/ffffff?text=Galaxy+S25+Ultra",
+    "variants": [
+      { "id": "v1", "label": "12GB / 256GB", "sublabel": "Galaxy S25 Ultra - Titanium Black", "price": 129999 }
+    ]
+  },
+  {
+    "id": "p4",
+    "brand": "OnePlus",
+    "name": "OnePlus 13",
+    "image": "https://placehold.co/300x300/6B2FB3/ffffff?text=OnePlus+13",
+    "variants": [
+      { "id": "v1", "label": "12GB / 256GB", "sublabel": "OnePlus 13 - Midnight Ocean", "price": 69999 }
+    ]
+  }
+]

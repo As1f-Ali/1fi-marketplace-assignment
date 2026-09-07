@@ -1,0 +1,6 @@
+[
+  { "months": 3, "interestRate": 10 },
+  { "months": 6, "interestRate": 10 },
+  { "months": 9, "interestRate": 12 },
+  { "months": 12, "interestRate": 12 }
+]
