@@ -1,4 +1,4 @@
-import products from './products.json';
+import products from './products';
 import emiPlans from './emiPlans.json';
 
 const SIMULATED_DELAY_MS = 800;
